@@ -1,8 +1,8 @@
-# pytype
-A simple Typing Speed Test right in your terminal made with Python and the curses module.
+# pytyping
+A simple typing speed test right in your terminal made with Python and the curses module.
 
 ## Installation
-You can install pytype by simply typing in your terminal:
+You can install pytyping using pip:
 ```
 pip install pytyping
 ```
